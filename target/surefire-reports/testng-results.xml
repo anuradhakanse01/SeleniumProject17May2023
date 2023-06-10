@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="12698" started-at="2023-05-17T01:00:45 IST" finished-at="2023-05-17T01:00:57 IST">
+  <suite name="Suite" duration-ms="25505" started-at="2023-05-18T23:52:31 IST" finished-at="2023-05-18T23:52:56 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="12698" started-at="2023-05-17T01:00:45 IST" finished-at="2023-05-17T01:00:57 IST">
+    <test name="Test" duration-ms="25505" started-at="2023-05-18T23:52:31 IST" finished-at="2023-05-18T23:52:56 IST">
       <class name="com.leaftaps.testcases.TC001_VerifyLogin">
-        <test-method status="PASS" signature="startReport()[pri:0, instance:com.leaftaps.testcases.TC001_VerifyLogin@d9d034]" name="startReport" is-config="true" duration-ms="105" started-at="2023-05-17T01:00:45 IST" finished-at="2023-05-17T01:00:45 IST">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.leaftaps.testcases.TC001_VerifyLogin@13167f4]" name="startReport" is-config="true" duration-ms="83" started-at="2023-05-18T23:52:30 IST" finished-at="2023-05-18T23:52:31 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startReport -->
-        <test-method status="PASS" signature="setValues()[pri:0, instance:com.leaftaps.testcases.TC001_VerifyLogin@d9d034]" name="setValues" is-config="true" duration-ms="0" started-at="2023-05-17T01:00:45 IST" finished-at="2023-05-17T01:00:45 IST">
+        <test-method status="PASS" signature="setValues()[pri:0, instance:com.leaftaps.testcases.TC001_VerifyLogin@13167f4]" name="setValues" is-config="true" duration-ms="0" started-at="2023-05-18T23:52:31 IST" finished-at="2023-05-18T23:52:31 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setValues -->
-        <test-method status="PASS" signature="startTestCase()[pri:0, instance:com.leaftaps.testcases.TC001_VerifyLogin@d9d034]" name="startTestCase" is-config="true" duration-ms="8" started-at="2023-05-17T01:00:45 IST" finished-at="2023-05-17T01:00:45 IST">
+        <test-method status="PASS" signature="startTestCase()[pri:0, instance:com.leaftaps.testcases.TC001_VerifyLogin@13167f4]" name="startTestCase" is-config="true" duration-ms="6" started-at="2023-05-18T23:52:31 IST" finished-at="2023-05-18T23:52:31 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTestCase -->
-        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.leaftaps.testcases.TC001_VerifyLogin@d9d034]" name="preCondition" is-config="true" duration-ms="5810" started-at="2023-05-17T01:00:46 IST" finished-at="2023-05-17T01:00:51 IST">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.leaftaps.testcases.TC001_VerifyLogin@13167f4]" name="preCondition" is-config="true" duration-ms="16891" started-at="2023-05-18T23:52:31 IST" finished-at="2023-05-18T23:52:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method status="PASS" signature="runLogin(java.lang.String,java.lang.String)[pri:0, instance:com.leaftaps.testcases.TC001_VerifyLogin@d9d034]" name="runLogin" duration-ms="2993" started-at="2023-05-17T01:00:51 IST" data-provider="fetchData" finished-at="2023-05-17T01:00:54 IST">
+        <test-method status="PASS" signature="runLogin(java.lang.String,java.lang.String)[pri:0, instance:com.leaftaps.testcases.TC001_VerifyLogin@13167f4]" name="runLogin" duration-ms="4855" started-at="2023-05-18T23:52:48 IST" data-provider="fetchData" finished-at="2023-05-18T23:52:53 IST">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runLogin -->
-        <test-method status="PASS" signature="endResult()[pri:0, instance:com.leaftaps.testcases.TC001_VerifyLogin@d9d034]" name="endResult" is-config="true" duration-ms="1704" started-at="2023-05-17T01:00:58 IST" finished-at="2023-05-17T01:00:59 IST">
+        <test-method status="PASS" signature="endResult()[pri:0, instance:com.leaftaps.testcases.TC001_VerifyLogin@13167f4]" name="endResult" is-config="true" duration-ms="1104" started-at="2023-05-18T23:52:56 IST" finished-at="2023-05-18T23:52:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endResult -->
